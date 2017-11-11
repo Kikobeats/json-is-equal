@@ -1,5 +1,7 @@
 # json-is-equal
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/json-is-equal.svg)](https://greenkeeper.io/)
+
 [![Build Status](http://img.shields.io/travis/Kikobeats/json-is-equal/master.svg?style=flat)](https://travis-ci.org/Kikobeats/json-is-equal)
 [![Dependency status](http://img.shields.io/david/Kikobeats/json-is-equal.svg?style=flat)](https://david-dm.org/Kikobeats/json-is-equal)
 [![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/json-is-equal.svg?style=flat)](https://david-dm.org/Kikobeats/json-is-equal#info=devDependencies)
